@@ -1,0 +1,4 @@
+ino
+===
+
+blog.git.pages
